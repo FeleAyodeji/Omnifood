@@ -6,9 +6,9 @@ We are a technology company first, but with a major focus on consumer well-being
 
 ## Branding
 
-Headline: A healthy meal delivered to your door, every single day
+Headline:A healthy meal delivered to your door, every single day
 
-Brand color: #e67e22
+Brand color:#e67e22
 
 ## Omnifood Website Content
 
